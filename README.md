@@ -1,3 +1,4 @@
+
 ````markdown
 # Simple Chat with EJS
 
@@ -15,6 +16,7 @@ This app allows users to register, log in, and chat in real-time with other user
 1. Clone the repository:
    ```bash
    git clone https://github.com/dd0d/simple-chat-with-ejs.git
+````
 
 2. Install dependencies:
 
@@ -23,7 +25,7 @@ This app allows users to register, log in, and chat in real-time with other user
    ```
 3. Create a `.env` file and add your MongoDB URI:
 
-   ```
+   ```env
    MONGO_URI=your_mongodb_uri
    ```
 4. Run the application:
@@ -48,3 +50,4 @@ Feel free to fork this project and submit pull requests. Any improvements are we
 ## License
 
 This project is open source and available under the MIT License.
+
