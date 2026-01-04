@@ -1,0 +1,11 @@
+<form>
+  <input name="q" placeholder="Search username">
+</form>
+
+<ul>
+<% users.forEach(u => { %>
+  <li>
+    <a href="/chat/<%= u.username %>"><%= u.username %></a>
+  </li>
+<% }) %>
+</ul>
