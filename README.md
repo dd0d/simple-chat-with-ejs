@@ -14,7 +14,6 @@ This app allows users to register, log in, and chat in real-time with other user
 
 ## Installation
 1. Clone the repository:
-   ```bash
    git clone https://github.com/dd0d/simple-chat-with-ejs.git
 ````
 
